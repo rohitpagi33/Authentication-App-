@@ -8,7 +8,6 @@ Great! Here's a professional and clear `README.md` file for your **LoginApp** pr
 
 LoginApp is a modern, full-stack authentication system built with the **MERN stack** (MongoDB, Express, React, Node.js). It supports **OTP-based login using Twilio**, **JWT-based session persistence**, and has a stylish, responsive UI.
 
-![Login Screenshot](./screenshots/login.png)
 
 ## 🚀 Features
 
