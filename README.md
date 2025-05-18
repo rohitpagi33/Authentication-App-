@@ -44,11 +44,7 @@ JWT_SECRET=your_jwt_secret_key
 PORT=5000
 ```
 
-> 📝 Tip: You can generate a strong `JWT_SECRET` using `node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"`.
-
----
-
-### 3. Install Dependencies
+## 3. Install Dependencies
 
 #### Backend
 
@@ -66,7 +62,7 @@ npm install
 
 ---
 
-### 4. Run the App
+## 4. Run the App
 
 #### Backend
 
