@@ -17,7 +17,6 @@
 - **Backend**: Node.js, Express.js
 - **Authentication**: OTP via Twilio, JWT for sessions
 - **Database**: MongoDB with Mongoose
-- **Styling**: Bedimcode-inspired black & white animated login theme
 
 ---
 
