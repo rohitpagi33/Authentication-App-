@@ -30,36 +30,9 @@ LoginApp is a modern, full-stack authentication system built with the **MERN sta
 
 ---
 
-## 📂 Project Structure
-
-```
-
-LoginApp/
-├── backend/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   ├── .env
-│   └── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   ├── App.jsx
-│   │   └── index.js
-
-````
-
----
-
 ## 🧪 Setup Instructions
 
-### 1. Clone the repo
+## 1. Clone the repo
 
 ```bash
 git clone https://github.com/rohitpagi33/Authentication-App-
@@ -68,9 +41,9 @@ cd LoginApp
 
 ---
 
-### 2. Configure Environment Variables
+## 2. Configure Environment Variables
 
-#### In `/backend/.env`
+## In `/backend/.env`
 
 ```env
 MONGO_URI=your_mongodb_connection_string
